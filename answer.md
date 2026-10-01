@@ -82,3 +82,5 @@ Ans:
 ![GitHub 個人帳號網址填寫結果](images/04-profile.png)
 
 ## 其他
+
+透過這次作業，我練習了 Fork、建立分支、提交變更、合併回 `main` 並推送到 GitHub，也熟悉了 Markdown 的基本格式。過程中遇到 Git 無法啟動提交訊息編輯器的問題，改用 `git commit -m` 後順利完成提交；這讓我更了解如何在終端機中明確提供提交訊息。
